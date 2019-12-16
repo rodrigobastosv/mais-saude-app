@@ -10,10 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^0.1.2
+  # Core
   flutter_modular:
     git:
       url: https://github.com/Flutterando/modular
+
+  # UI
+  cupertino_icons: ^0.1.2
 
 dev_dependencies:
   flutter_test:
