@@ -11,9 +11,10 @@ dependencies:
     sdk: flutter
 
   # Core
-  flutter_modular:
-    git:
-      url: https://github.com/Flutterando/modular
+  flutter_bloc: ^2.1.1
+  bloc: ^2.0.0
+  equatable: ^1.0.1
+  get: ^1.6.2
 
   # UI
   cupertino_icons: ^0.1.2
